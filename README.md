@@ -19,3 +19,5 @@ If this explanation leaves you frustrated with vagueness, welcome to the club.
 ## Misc
 
 It'll have a REPL. Dead programs are probably fine for some stuff, perhaps even preferable. I don't think they are in the general case. Logtalk is probably the closest extant language to what I am proposing/will try to develop here.
+
+somethings can't be easily or tractably enumerated, but maybe we want to still reason about them. if we can write a boolean function for set membership we're good. I've realized that constraint propagation over intensional sets is basically just term rewriting, we don't really need to think of the values so much as syntactic manipulation. 
